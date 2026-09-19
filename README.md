@@ -1,29 +1,31 @@
 # STEP Semester 3
 
-## Date: 6-09-2026
+## Date: 13-09-2026
 
-## Session 5 - Java Arrays and Methods
+## Session 6 - Classes and Objects Revision
 
 ### Work Done
-- Created `feature/session_5` branch.
-- Created Week 5 `class_problems` and `assignment_problems` folders.
+- Created feature/session_6 branch.
+- Created Week 6 class and assignment problem folders.
 - Completed 5 class problems and 5 assignment problems.
-- Practiced arrays, methods, nested loops, 2D arrays, method overloading, constructors, encapsulation, and `Arrays.sort()`.
+- Practiced Java OOP concepts including classes, objects,
+  constructors, encapsulation, constructor overloading,
+  constructor chaining, object references, and static members.
 
 ### Class Problems
-1. Hackathon Score Curve Booster
-2. Duplicate Team Name Finder
-3. Top-3 Podium Finder
-4. Hackathon Seating Grid Optimizer
-5. Placement Drive Shortlisting & Ranking Engine
+1. Student Placement Record Management
+2. Hostel Mess Wallet Management
+3. Course Credit Management
+4. Library ID Card Management
+5. Student and College Information Management
 
 ### Assignment Problems
-1. Fantasy Team Score Multiplier
-2. Duplicate Player Pick Checker
-3. Top Performer Tracker
-4. Match Day Grid Analyzer
-5. Fantasy League Auto-Draft Ranking Engine
+1. Library Inventory Management
+2. Payroll Salary Management
+3. Employee Profile Creation
+4. Exam Hall Ticket Reference Management
+5. Employee and Company Information Management
 
 ### Next Steps
-- Start Session 6 problems.
-- Create `feature/session_6` from the `develop` branch.
+- Start Session 7.
+- Create feature/session_7 from develop.
