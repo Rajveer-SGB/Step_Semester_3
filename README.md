@@ -1,35 +1,36 @@
-## Session 7 - Encapsulation and Access Control
+## Session 8 - Inheritance and Polymorphism
 
 ### Work Done
-- Created `feature/session_7` branch.
-- Created Week 7 `class_problems` and `assignment_problems` folders.
+- Created `feature/session_8` branch.
+- Created Week 8 `class_problems` and `assignment_problems` folders.
 - Completed 5 class problems and 5 assignment problems.
-- Practiced encapsulation, private fields, final fields, immutable objects, controlled access, defensive copying, and data hiding.
+- Practiced inheritance, method overriding, abstract classes, runtime polymorphism, and polymorphic collections.
 
 ### Class Problems
-1. The Piggy Bank
-2. The Quiz Scorecard
-3. The Nickname Tag
-4. The Locker Code
-5. The Attendance Sheet
+1. Payment System Fee Calculation
+2. Library Item Due Date Calculator
+3. Delivery Fee Calculator
+4. Examination Question Grader
+5. Public Transport Fare Calculator
 
 ### Assignment Problems
-1. The Health Bar
-2. The Playlist
-3. The Password Checker
-4. The Traffic Light
-5. The Shopping Cart
+1. The Canteen Billing Counter
+2. The Campus Parking Charge Calculator
+3. The Hostel Electricity Bill
+4. The Festival Bonus Calculator
+5. The Streaming Plan Renewal Reminder
 
 ### Concepts Covered
-- Encapsulation using `private`
-- Read-only access through getters
-- Controlled modification through methods
-- `final` fields
-- Immutable objects
-- Defensive copying of arrays
-- Preventing direct access to sensitive data
-- Object state validation
+- Inheritance
+- Abstract classes
+- Method overriding
+- Runtime polymorphism
+- Dynamic method dispatch
+- Base-class references
+- Polymorphic arrays
+- Specialized subclass behavior
+- Avoiding repeated type-based conditional logic
 
 ### Next Steps
-- Start Session 8.
-- Create `feature/session_8` from the `develop` branch.
+- Start Session 9.
+- Create `feature/session_9` from the `develop` branch.
