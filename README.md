@@ -1,36 +1,59 @@
-## Session 8 - Inheritance and Polymorphism
+## Session 9 - Abstraction and Interfaces
 
 ### Work Done
-- Created `feature/session_8` branch.
-- Created Week 8 `class_problems` and `assignment_problems` folders.
+- Created the `feature/session_9` branch from `develop`.
+- Organized Java programs into `week9/class_problems` and `week9/assignment_problems`.
 - Completed 5 class problems and 5 assignment problems.
-- Practiced inheritance, method overriding, abstract classes, runtime polymorphism, and polymorphic collections.
+- Implemented programs demonstrating abstraction, interfaces, inheritance, and runtime polymorphism.
+- Practiced designing reusable code using abstract classes and interfaces.
 
 ### Class Problems
-1. Payment System Fee Calculation
-2. Library Item Due Date Calculator
-3. Delivery Fee Calculator
-4. Examination Question Grader
-5. Public Transport Fare Calculator
+1. Garden Plot Area Report
+2. Weekly Staff Pay
+3. Library Late Fine Counter
+4. Electricity Connection Billing
+5. Travel Booking with a Common Fee
 
 ### Assignment Problems
-1. The Canteen Billing Counter
-2. The Campus Parking Charge Calculator
-3. The Hostel Electricity Bill
-4. The Festival Bonus Calculator
-5. The Streaming Plan Renewal Reminder
+1. Movie Ticket Counter
+2. Parcel Shipping Desk
+3. College Fee Counter
+4. City Cab Fare Meter
+5. Home Appliance Energy Report
 
 ### Concepts Covered
-- Inheritance
-- Abstract classes
-- Method overriding
-- Runtime polymorphism
-- Dynamic method dispatch
-- Base-class references
-- Polymorphic arrays
-- Specialized subclass behavior
-- Avoiding repeated type-based conditional logic
+- **Abstraction:** Hiding implementation details and exposing essential functionality.
+- **Abstract Classes:** Creating common base classes that cannot be instantiated directly.
+- **Abstract Methods:** Defining methods that subclasses must implement.
+- **Interfaces:** Defining capabilities that different classes can implement.
+- **Method Overriding:** Providing specialized implementations in subclasses.
+- **Runtime Polymorphism:** Calling overridden methods through parent-class references.
+- **Interface Default Methods:** Sharing common functionality across implementing classes.
+- **`instanceof` Operator:** Checking whether an object supports a particular interface.
+- **Code Reusability:** Centralizing common calculations and avoiding repeated logic.
+
+### Project Structure
+
+```text
+src/main/java/week9/
+├── class_problems/
+│   ├── GardenPlot.java
+│   ├── WeeklyStaffPay.java
+│   ├── LibraryFine.java
+│   ├── ElectricityBilling.java
+│   └── TravelBooking.java
+└── assignment_problems/
+    ├── MovieTicket.java
+    ├── ParcelShipping.java
+    ├── CollegeFee.java
+    ├── CityCab.java
+    └── ApplianceEnergy.java
+```
+
+### Git Branch
+`feature/session_9`
 
 ### Next Steps
-- Start Session 9.
-- Create `feature/session_9` from the `develop` branch.
+- Begin Session 10.
+- Create `feature/session_10` from the `develop` branch.
+- Continue implementing Java OOP concepts through coding problems.
