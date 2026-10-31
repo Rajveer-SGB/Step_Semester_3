@@ -1,59 +1,42 @@
-## Session 9 - Abstraction and Interfaces
+## Session 10 - Core Java Revision (Strings, Arrays, Loops, Classes and Objects)
 
 ### Work Done
-- Created the `feature/session_9` branch from `develop`.
-- Organized Java programs into `week9/class_problems` and `week9/assignment_problems`.
-- Completed 5 class problems and 5 assignment problems.
-- Implemented programs demonstrating abstraction, interfaces, inheritance, and runtime polymorphism.
-- Practiced designing reusable code using abstract classes and interfaces.
+- Solved 10 class problems and 5 assignment problems in Java
+- Practiced string handling, arrays, loops, conditionals, a simple class with objects, binary search and single-pass array techniques
+- Completed the Session 10 quiz and concept questions
 
 ### Class Problems
-1. Garden Plot Area Report
-2. Weekly Staff Pay
-3. Library Late Fine Counter
-4. Electricity Connection Billing
-5. Travel Booking with a Common Fee
+1. Vowel and Consonant Counter
+2. Word Reverser and Palindrome Checker
+3. Even and Odd Numbers in a List
+4. In-Place Array Reversal
+5. Digit Sum and Number Reversal
+6. Prime Number Checker
+7. Factorial Calculation
+8. Student Grade Assignment
+9. Leap Year Detector
+10. Student Result Card Generator
 
 ### Assignment Problems
-1. Movie Ticket Counter
-2. Parcel Shipping Desk
-3. College Fee Counter
-4. City Cab Fare Meter
-5. Home Appliance Energy Report
+1. Exam Score Band Counter
+2. Class Attendance Tracker
+3. Second-Best Score
+4. Duty Roster Rotation
+5. Busiest Bus Row
 
 ### Concepts Covered
-- **Abstraction:** Hiding implementation details and exposing essential functionality.
-- **Abstract Classes:** Creating common base classes that cannot be instantiated directly.
-- **Abstract Methods:** Defining methods that subclasses must implement.
-- **Interfaces:** Defining capabilities that different classes can implement.
-- **Method Overriding:** Providing specialized implementations in subclasses.
-- **Runtime Polymorphism:** Calling overridden methods through parent-class references.
-- **Interface Default Methods:** Sharing common functionality across implementing classes.
-- **`instanceof` Operator:** Checking whether an object supports a particular interface.
-- **Code Reusability:** Centralizing common calculations and avoiding repeated logic.
-
-### Project Structure
-
-```text
-src/main/java/week9/
-├── class_problems/
-│   ├── GardenPlot.java
-│   ├── WeeklyStaffPay.java
-│   ├── LibraryFine.java
-│   ├── ElectricityBilling.java
-│   └── TravelBooking.java
-└── assignment_problems/
-    ├── MovieTicket.java
-    ├── ParcelShipping.java
-    ├── CollegeFee.java
-    ├── CityCab.java
-    └── ApplianceEnergy.java
-```
-
-### Git Branch
-`feature/session_9`
+- String methods and StringBuilder (reverse)
+- Palindrome check using equals()
+- Arrays and in-place two-pointer reversal
+- Loops, modulo and integer division
+- if-else ladders and logical operators
+- Classes, objects, constructors and methods
+- Binary search with duplicates (first position search)
+- Single-pass scans and running counters
+- Array rotation using the modulo operator
+- 2D arrays and row totals
+- Time and space complexity analysis
 
 ### Next Steps
-- Begin Session 10.
-- Create `feature/session_10` from the `develop` branch.
-- Continue implementing Java OOP concepts through coding problems.
+- Start Session 11 problems
+- Revise string immutability, pass-by-value and static vs instance members
